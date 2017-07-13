@@ -1,0 +1,55 @@
+Message-ID: <b7b27f0b3085784da06a29c55adc9c95@localhost>
+Date: Sun, 29 Jan 2017 02:50:05 +0100
+Subject: Password reset for My Application
+From: My Application robot <support@example.com>
+To: auliakamri@yahoo.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1485654605_e6043661c2c9e00239144908f6447130_=_"
+
+
+--_=_swift_v4_1485654605_e6043661c2c9e00239144908f6447130_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+Hello auliak,
+
+Follow the link below to reset your password:
+
+ht=
+tp://localhost/tesis/webservice/server/web/index.php/site/reset-password?to=
+ken=3Dd9JG8wEZsGCEbprQEPnNDwGts9TR6dSR_1485654603
+
+--_=_swift_v4_1485654605_e6043661c2c9e00239144908f6447130_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/=
+xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/ht=
+ml; charset=3DUTF-8" />
+    <title></title>
+    </head>
+<body>
+    =
+    <div class=3D"password-reset">
+    <p>Hello auliak,</p>
+
+    <p>F=
+ollow the link below to reset your password:</p>
+
+    <p><a href=3D"htt=
+p://localhost/tesis/webservice/server/web/index.php/site/reset-password?tok=
+en=3Dd9JG8wEZsGCEbprQEPnNDwGts9TR6dSR_1485654603">http://localhost/tesis/we=
+bservice/server/web/index.php/site/reset-password?token=3Dd9JG8wEZsGCEbprQE=
+PnNDwGts9TR6dSR_1485654603</a></p>
+</div>
+    </body>
+</html>
+
+
+--_=_swift_v4_1485654605_e6043661c2c9e00239144908f6447130_=_--
